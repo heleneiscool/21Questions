@@ -1,0 +1,26 @@
+Question: has whiskers
+2
+no
+Question: has legs
+2
+no
+Question: is it made of bits
+2
+no
+Answer: Snake
+yes
+Answer: file
+yes
+Question: has trunk
+2
+no
+Answer: Rhino
+yes
+Answer: Elephant
+yes
+Question: bigger than person
+2
+no
+Answer: Cat
+yes
+Answer: Tiger

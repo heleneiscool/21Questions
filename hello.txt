@@ -1,0 +1,23 @@
+Question: has whiskers
+3
+hjk
+Answer: hhhh
+no
+Question: has legs
+2
+no
+Answer: Snake
+yes
+Question: has trunk
+2
+no
+Answer: Rhino
+yes
+Answer: Elephant
+yes
+Question: bigger than person
+2
+no
+Answer: Cat
+yes
+Answer: Tiger
